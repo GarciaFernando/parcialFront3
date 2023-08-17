@@ -1,0 +1,9 @@
+.card{
+    margin-top: 30px;
+    border: solid 3px rgb(91, 86, 219);
+    border-radius: 5%;
+    background-color: rgb(50, 50, 53);
+}
+.card>h1{
+    
+}
